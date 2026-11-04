@@ -1,0 +1,18 @@
+# Data (not redistributed)
+data/
+*.rds
+*.rda
+.Rproj.user
+.Rhistory
+.RData
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
